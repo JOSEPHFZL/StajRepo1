@@ -1,0 +1,15 @@
+Bu belge, yurutulmekte olan proje icin temel bilgileri, hedefleri
+ve izlenecek yol haritasini ozetlemektedir.
+Ilgili tum paydaslarin projeyle ilgili vizyonu net bir sekilde kavramasi
+ve standartlastirilmis sureclerin eksiksiz uygulanmasi amaciyla hazirlanmistir.
+
+Kurumumuz, faaliyet gosterdigi her alanda durustluk, seffaflik 
+ve en yuksek etik standartlari benimsemektedir.
+Calisanlarimiz ve is ortaklarimiz arasinda guvene dayali bir iletisim kurarak,
+surdurulebilir basariyi hedefliyoruz.
+Bu dogrultuda belirlenen kurallar tum personel icin baglayicidir.
+
+Sistem altyapisi, modern gereksinimlere uygun olarak optimize edilmis olup,
+veri guvenligini en ust duzeyde tutacak sekilde yapilandirilmistir.
+Olasi kesintilere karsi duzenli yedekleme protokolleri devreye alinmakta
+ve performans surekli olarak denetlenmektedir.

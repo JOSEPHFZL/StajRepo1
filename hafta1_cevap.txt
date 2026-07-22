@@ -1,0 +1,2 @@
+En �ok tekrar eden kelime : ve
+Gecme sayisi: 5
