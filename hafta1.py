@@ -3,12 +3,17 @@ def en_cok_tekrar_eden_kelime():
         icerik = f.read()
 
     icerik=icerik.lower()
-    yeni_icerik = icerik.split()
+    noktalama_isaretleri=",.;:?!\n\t"
 
-    kelimeler={}
+    for isaret in noktalama_isaretleri:
+        icerik=icerik.replace(isaret," ")
+    
+    sayac={}
 
-    for kelime in yeni_icerik:
-        if kelime in kelimeler:
+    kelimeler = icerik.split()
+    
+    for kelime in kelimeler:
+        if kelime in sayac:
             kelimeler[kelime] += 1
         else:
             kelimeler[kelime]=1

@@ -1,2 +1,2 @@
-En ï¿½ok tekrar eden kelime : ve
+En çok tekrar eden kelime : ve
 Gecme sayisi: 5
