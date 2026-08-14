@@ -7,7 +7,7 @@ Kurumumuz, faaliyet gosterdigi her alanda durustluk, seffaflik
 ve en yuksek etik standartlari benimsemektedir.
 Calisanlarimiz ve is ortaklarimiz arasinda guvene dayali bir iletisim kurarak,
 surdurulebilir basariyi hedefliyoruz.
-Bu dogrultuda belirlenen kurallar tum personel icin baglayicidir.
+Bu dogrultuda belirlenen sekilde kurallar tum personel icin baglayicidir.
 
 Sistem altyapisi, modern gereksinimlere uygun olarak optimize edilmis olup,
 veri guvenligini en ust duzeyde tutacak sekilde yapilandirilmistir.

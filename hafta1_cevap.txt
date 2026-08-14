@@ -1,2 +1,9 @@
-En çok tekrar eden kelime : ve
-Gecme sayisi: 5
+bu:2
+icin:2
+ilgili:2
+tum:2
+bir:2
+en:2
+olarak:2
+sekilde:3
+ve:5
